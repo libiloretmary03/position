@@ -1,0 +1,47 @@
+.main{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    position: relative;
+    right: -80px;
+}
+.one{
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    position: static;
+    
+}
+.two{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(28, 168, 28);
+    position: relative;
+    right: -60px;
+    
+}
+.three{
+    width: 80px;
+    height: 80px;
+    background-color: hsl(304, 88%, 56%);
+    position: absolute;
+    right: -60px;
+    
+}
+
+.four{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(153, 43, 140);
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: #fbff00;
+    position: sticky;
+    top: 0px;
+    
+}
